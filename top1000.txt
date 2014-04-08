@@ -1,58 +1,7 @@
-Testing yahoo.com...  vulnerable.
-Testing imgur.com...  vulnerable.
-Testing stackoverflow.com...  vulnerable.
-Testing kickass.to...  vulnerable.
-Testing flickr.com...  vulnerable.
-Testing redtube.com...  vulnerable.
-Testing sogou.com...  vulnerable.
-Testing adf.ly...  vulnerable.
-Testing outbrain.com...  vulnerable.
-Testing archive.org...  vulnerable.
-Testing addthis.com...  vulnerable.
-Testing stackexchange.com...  vulnerable.
-Testing popads.net...  vulnerable.
-Testing avito.ru...  vulnerable.
-Testing kaskus.co.id...  vulnerable.
-Testing web.de...  vulnerable.
-Testing suning.com...  vulnerable.
-Testing zeobit.com...  vulnerable.
-Testing beeg.com...  vulnerable.
-Testing seznam.cz...  vulnerable.
-Testing okcupid.com...  vulnerable.
-Testing pch.com...  vulnerable.
-Testing xda-developers.com...  vulnerable.
-Testing steamcommunity.com...  vulnerable.
-Testing slate.com...  vulnerable.
-Testing scoop.it...  vulnerable.
-Testing hidemyass.com...  vulnerable.
-Testing 123rf.com...  vulnerable.
-Testing m-w.com...  vulnerable.
-Testing dreamstime.com...  vulnerable.
-Testing amung.us...  vulnerable.
-Testing duckduckgo.com... not vulnerable.
-Testing leo.org...  vulnerable.
-Testing eventbrite.com...  vulnerable.
-Testing wetransfer.com...  vulnerable.
-Testing sh.st...  vulnerable.
-Testing entrepreneur.com...  vulnerable.
-Testing zoho.com...  vulnerable.
-Testing yts.re...  vulnerable.
-Testing usmagazine.com...  vulnerable.
-Testing fool.com...  vulnerable.
-Testing digitalpoint.com...  vulnerable.
-Testing picmonkey.com...  vulnerable.
-Testing petflow.com...  vulnerable.
-Testing squidoo.com...  vulnerable.
-Testing avazutracking.net...  vulnerable.
-Testing elegantthemes.com...  vulnerable.
-Testing 500px.com...  vulnerable.
-
--
-
 Testing google.com...  not vulnerable.
 Testing facebook.com...  not vulnerable.
 Testing youtube.com...  not vulnerable.
-Testing yahoo.com...  vulnerable.
+Testing yahoo.com...  not vulnerable.
 Testing baidu.com...  no SSL.
 Testing wikipedia.org...  not vulnerable.
 Testing qq.com...  no SSL.
@@ -84,7 +33,7 @@ Testing google.co.jp...  not vulnerable.
 Testing msn.com...  no SSL.
 Testing instagram.com...  not vulnerable.
 Testing tumblr.com...  not vulnerable.
-Testing 163.com...  no SSL.
+Testing 163.com...  not vulnerable.
 Testing google.com.br...  not vulnerable.
 Testing mail.ru...  not vulnerable.
 Testing microsoft.com...  no SSL.
@@ -97,13 +46,13 @@ Testing google.es...  not vulnerable.
 Testing google.it...  not vulnerable.
 Testing imdb.com...  no SSL.
 Testing apple.com...  no SSL.
-Testing imgur.com...  vulnerable.
+Testing imgur.com...  not vulnerable.
 Testing cnn.com...  no SSL.
 Testing neobux.com...  not vulnerable.
 Testing craigslist.org...  not vulnerable.
 Testing amazon.co.jp...  not vulnerable.
 Testing google.com.hk...  not vulnerable.
-Testing stackoverflow.com...  vulnerable.
+Testing stackoverflow.com...  not vulnerable.
 Testing xhamster.com...  not vulnerable.
 Testing google.com.mx...  not vulnerable.
 Testing reddit.com...  not vulnerable.
@@ -114,7 +63,7 @@ Testing go.com...  no SSL.
 Testing bbc.co.uk...  not vulnerable.
 Testing google.ca...  not vulnerable.
 Testing blogger.com...  not vulnerable.
-Testing fc2.com...  not vulnerable.
+Testing fc2.com...  no SSL.
 Testing xinhuanet.com...  no SSL.
 Testing aliexpress.com...  no SSL.
 Testing odnoklassniki.ru...  not vulnerable.
@@ -132,7 +81,7 @@ Testing google.com.au...  not vulnerable.
 Testing about.com...  no SSL.
 Testing people.com.cn...  no SSL.
 Testing amazon.de...  not vulnerable.
-Testing kickass.to...  vulnerable.
+Testing kickass.to...  not vulnerable.
 Testing youku.com...  no SSL.
 Testing ebay.de...  no SSL.
 Testing thepiratebay.se...  not vulnerable.
@@ -141,7 +90,7 @@ Testing google.pl...  not vulnerable.
 Testing blogspot.in...  not vulnerable.
 Testing clkmon.com...  not vulnerable.
 Testing dailymotion.com...  not vulnerable.
-Testing flickr.com...  vulnerable.
+Testing flickr.com...  not vulnerable.
 Testing bp.blogspot.com...  no SSL.
 Testing netflix.com...  no SSL.
 Testing conduit.com...  not vulnerable.
@@ -155,7 +104,7 @@ Testing livejasmin.com...  no SSL.
 Testing rakuten.co.jp...  no SSL.
 Testing cnet.com...  no SSL.
 Testing themeforest.net...  no SSL.
-Testing redtube.com...  vulnerable.
+Testing redtube.com...  not vulnerable.
 Testing indiatimes.com...  no SSL.
 Testing uol.com.br...  no SSL.
 Testing aol.com...  no SSL.
@@ -179,7 +128,7 @@ Testing canadaalltax.com...  no SSL.
 Testing wikimedia.org...  not vulnerable.
 Testing bbc.com...  not vulnerable.
 Testing google.com.tw...  not vulnerable.
-Testing sogou.com...  vulnerable.
+Testing sogou.com...  not vulnerable.
 Testing yelp.com...  not vulnerable.
 Testing fiverr.com...  not vulnerable.
 Testing google.com.pk...  not vulnerable.
@@ -194,7 +143,7 @@ Testing directrev.com...  no SSL.
 Testing wikia.com...  not vulnerable.
 Testing blogfa.com...  no SSL.
 Testing wikihow.com...  no SSL.
-Testing outbrain.com...  vulnerable.
+Testing outbrain.com...  not vulnerable.
 Testing theguardian.com...  no SSL.
 Testing deviantart.com...  not vulnerable.
 Testing espncricinfo.com...  no SSL.
@@ -206,8 +155,8 @@ Testing foxnews.com...  not vulnerable.
 Testing stumbleupon.com...  not vulnerable.
 Testing livedoor.com...  no SSL.
 Testing w3schools.com...  no SSL.
-Testing archive.org...  vulnerable.
-Testing gameforge.com...  not vulnerable.
+Testing archive.org...  not vulnerable.
+Testing gameforge.com...  no SSL.
 Testing forbes.com...  no SSL.
 Testing avg.com...  no SSL.
 Testing files.wordpress.com...  not vulnerable.
@@ -223,10 +172,10 @@ Testing mediafire.com...  not vulnerable.
 Testing so.com...  no SSL.
 Testing sourceforge.net...  not vulnerable.
 Testing salesforce.com...  not vulnerable.
-Testing addthis.com...  vulnerable.
+Testing addthis.com...  not vulnerable.
 Testing bet365.com...  no SSL.
 Testing reference.com...  no SSL.
-Testing spiegel.de...  no SSL.
+Testing spiegel.de...  not vulnerable.
 Testing chase.com...  not vulnerable.
 Testing liveinternet.ru...  not vulnerable.
 Testing blogspot.com.br...  not vulnerable.
@@ -243,13 +192,13 @@ Testing google.co.id...  not vulnerable.
 Testing google.com.co...  not vulnerable.
 Testing shutterstock.com...  no SSL.
 Testing china.com.cn...  no SSL.
-Testing stackexchange.com...  vulnerable.
+Testing stackexchange.com...  not vulnerable.
 Testing google.com.vn...  not vulnerable.
 Testing mailchimp.com...  not vulnerable.
 Testing onet.pl...  not vulnerable.
 Testing quikr.com...  not vulnerable.
 Testing allegro.pl...  no SSL.
-Testing popads.net...  vulnerable.
+Testing popads.net...  not vulnerable.
 Testing google.be...  not vulnerable.
 Testing zillow.com...  not vulnerable.
 Testing walmart.com...  no SSL.
@@ -287,7 +236,7 @@ Testing tianya.cn...  no SSL.
 Testing zedo.com...  not vulnerable.
 Testing google.com.ph...  not vulnerable.
 Testing businessinsider.com...  not vulnerable.
-Testing avito.ru...  vulnerable.
+Testing avito.ru...  not vulnerable.
 Testing warriorforum.com...  no SSL.
 Testing taringa.net...  not vulnerable.
 Testing naver.jp...  no SSL.
@@ -327,7 +276,7 @@ Testing dmm.co.jp...  no SSL.
 Testing amazon.fr...  not vulnerable.
 Testing ucoz.ru...  no SSL.
 Testing usatoday.com...  no SSL.
-Testing douban.com...  no SSL.
+Testing douban.com...  not vulnerable.
 Testing disqus.com...  not vulnerable.
 Testing acesse.com...  not vulnerable.
 Testing youyuan.com...  no SSL.
@@ -350,12 +299,12 @@ Testing hulu.com...  not vulnerable.
 Testing fedex.com...  not vulnerable.
 Testing mama.cn...  no SSL.
 Testing thefreecamsecret.com...  no SSL.
-Testing web.de...  vulnerable.
+Testing web.de...  not vulnerable.
 Testing hp.com...  not vulnerable.
 Testing nih.gov...  no SSL.
 Testing zol.com.cn...  no SSL.
 Testing fbcdn.net...  not vulnerable.
-Testing suning.com...  vulnerable.
+Testing suning.com...  not vulnerable.
 Testing google.cz...  not vulnerable.
 Testing intuit.com...  not vulnerable.
 Testing ign.com...  no SSL.
@@ -383,7 +332,7 @@ Testing xuite.net...  not vulnerable.
 Testing chaturbate.com...  not vulnerable.
 Testing github.io...  no SSL.
 Testing it168.com...  no SSL.
-Testing iqiyi.com...  no SSL.
+Testing iqiyi.com...  vulnerable.
 Testing zeobit.com...  vulnerable.
 Testing mobile01.com...  no SSL.
 Testing bloomberg.com...  not vulnerable.
@@ -409,7 +358,7 @@ Testing youjizz.com...  no SSL.
 Testing zippyshare.com...  not vulnerable.
 Testing hudong.com...  no SSL.
 Testing hdfcbank.com...  no SSL.
-Testing beeg.com...  vulnerable.
+Testing beeg.com...  not vulnerable.
 Testing motherless.com...  not vulnerable.
 Testing tinyurl.com...  not vulnerable.
 Testing zendesk.com...  not vulnerable.
@@ -466,7 +415,7 @@ Testing xe.com...  not vulnerable.
 Testing ebay.com.au...  no SSL.
 Testing list-manage.com...  not vulnerable.
 Testing ci123.com...  no SSL.
-Testing okcupid.com...  vulnerable.
+Testing okcupid.com...  not vulnerable.
 Testing t-online.de...  no SSL.
 Testing drudgereport.com...  no SSL.
 Testing odesk.com...  not vulnerable.
@@ -554,14 +503,14 @@ Testing fotolia.com...  not vulnerable.
 Testing adnxs.com...  no SSL.
 Testing empowernetwork.com...  not vulnerable.
 Testing amazon.it...  not vulnerable.
-Testing timeanddate.com...  no SSL.
+Testing timeanddate.com...  not vulnerable.
 Testing gome.com.cn...  not vulnerable.
 Testing foursquare.com...  not vulnerable.
-Testing habrahabr.ru...  no SSL.
-Testing telexfree.com...  not vulnerable.
+Testing habrahabr.ru...  not vulnerable.
+Testing telexfree.com...  no SSL.
 Testing newegg.com...  no SSL.
 Testing shareasale.com...  no SSL.
-Testing xda-developers.com...  vulnerable.
+Testing xda-developers.com...  not vulnerable.
 Testing expedia.com...  no SSL.
 Testing ig.com.br...  no SSL.
 Testing theblaze.com...  no SSL.
@@ -585,7 +534,7 @@ Testing google.sk...  not vulnerable.
 Testing pcgames.com.cn...  no SSL.
 Testing twoo.com...  no SSL.
 Testing who.is...  not vulnerable.
-Testing awesomehp.com...  no SSL.
+Testing awesomehp.com...  not vulnerable.
 Testing iminent.com...  no SSL.
 Testing backpage.com...  no SSL.
 Testing gutefrage.net...  not vulnerable.
@@ -634,8 +583,8 @@ Testing mirror.co.uk...  no SSL.
 Testing seesaa.net...  not vulnerable.
 Testing pcbaby.com.cn...  no SSL.
 Testing mobile.de...  no SSL.
-Testing steamcommunity.com...  vulnerable.
-Testing slate.com...  vulnerable.
+Testing steamcommunity.com...  not vulnerable.
+Testing slate.com...  not vulnerable.
 Testing tickld.com...  not vulnerable.
 Testing soku.com...  no SSL.
 Testing webs.com...  no SSL.
@@ -644,14 +593,14 @@ Testing oneindia.in...  no SSL.
 Testing tukif.com...  no SSL.
 Testing babytree.com...  no SSL.
 Testing firedrive.com...  not vulnerable.
-Testing clicksvenue.com...  no SSL.
+Testing clicksvenue.com...  not vulnerable.
 Testing drtuber.com...  no SSL.
 Testing pixiv.net...  not vulnerable.
 Testing ebay.fr...  no SSL.
 Testing qtrax.com...  no SSL.
 Testing cbslocal.com...  not vulnerable.
 Testing yellowpages.com...  not vulnerable.
-Testing scoop.it...  vulnerable.
+Testing scoop.it...  not vulnerable.
 Testing asos.com...  no SSL.
 Testing watchseries.lt...  no SSL.
 Testing free-tv-video-online.me...  not vulnerable.
@@ -660,7 +609,7 @@ Testing hotels.com...  no SSL.
 Testing movie4k.to...  no SSL.
 Testing bloglovin.com...  not vulnerable.
 Testing news.com.au...  not vulnerable.
-Testing hidemyass.com...  vulnerable.
+Testing hidemyass.com...  not vulnerable.
 Testing hubpages.com...  not vulnerable.
 Testing mercadolibre.com.mx...  no SSL.
 Testing azlyrics.com...  no SSL.
@@ -702,7 +651,7 @@ Testing adscale.de...  no SSL.
 Testing optmd.com...  no SSL.
 Testing viadeo.com...  not vulnerable.
 Testing coupons.com...  no SSL.
-Testing amung.us...  vulnerable.
+Testing amung.us...  not vulnerable.
 Testing smh.com.au...  no SSL.
 Testing cbsnews.com...  no SSL.
 Testing google.com.kw...  not vulnerable.
@@ -718,7 +667,7 @@ Testing macys.com...  not vulnerable.
 Testing privatehomeclips.com...  not vulnerable.
 Testing youth.cn...  no SSL.
 Testing website-unavailable.com...  no SSL.
-Testing leo.org...  vulnerable.
+Testing leo.org...  not vulnerable.
 Testing outlook.com...  no SSL.
 Testing tudou.com...  no SSL.
 Testing dict.cc...  not vulnerable.
@@ -739,7 +688,7 @@ Testing tomshardware.com...  no SSL.
 Testing bongacams.com...  no SSL.
 Testing jqw.com...  no SSL.
 Testing mp3skull.com...  no SSL.
-Testing eventbrite.com...  vulnerable.
+Testing eventbrite.com...  not vulnerable.
 Testing squarespace.com...  not vulnerable.
 Testing ancestry.com...  no SSL.
 Testing mpnrs.com...  not vulnerable.
@@ -762,7 +711,7 @@ Testing clarin.com...  not vulnerable.
 Testing renren.com...  no SSL.
 Testing overstock.com...  no SSL.
 Testing lanacion.com.ar...  no SSL.
-Testing sh.st...  vulnerable.
+Testing sh.st...  not vulnerable.
 Testing stockstar.com...  no SSL.
 Testing narod.ru...  no SSL.
 Testing google.bg...  not vulnerable.
@@ -816,7 +765,7 @@ Testing jvzoo.com...  not vulnerable.
 Testing interia.pl...  not vulnerable.
 Testing echo.msk.ru...  no SSL.
 Testing allocine.fr...  no SSL.
-Testing yts.re...  vulnerable.
+Testing yts.re...  not vulnerable.
 Testing ensonhaber.com...  not vulnerable.
 Testing chron.com...  not vulnerable.
 Testing haberler.com...  no SSL.
@@ -830,7 +779,7 @@ Testing qvo6.com...  no SSL.
 Testing media-fire.org...  not vulnerable.
 Testing idnes.cz...  no SSL.
 Testing jd.com...  no SSL.
-Testing usmagazine.com...  vulnerable.
+Testing usmagazine.com...  not vulnerable.
 Testing pravda.com.ua...  no SSL.
 Testing worldstarhiphop.com...  no SSL.
 Testing sape.ru...  not vulnerable.
@@ -872,7 +821,7 @@ Testing fishcod.com...  no SSL.
 Testing nypost.com...  not vulnerable.
 Testing heise.de...  not vulnerable.
 Testing magentocommerce.com...  not vulnerable.
-Testing letitbit.net...  not vulnerable.
+Testing letitbit.net...  vulnerable.
 Testing hongkiat.com...  no SSL.
 Testing leagueoflegends.com...  not vulnerable.
 Testing dmm.com...  no SSL.
@@ -897,7 +846,7 @@ Testing gulfup.com...  no SSL.
 Testing deezer.com...  not vulnerable.
 Testing aizhan.com...  no SSL.
 Testing zimbio.com...  no SSL.
-Testing fool.com...  vulnerable.
+Testing fool.com...  not vulnerable.
 Testing mercadolibre.com.ve...  no SSL.
 Testing digitalpoint.com...  vulnerable.
 Testing gtmetrix.com...  not vulnerable.
@@ -928,12 +877,12 @@ Testing popcash.net...  not vulnerable.
 Testing z5x.net...  not vulnerable.
 Testing businessweek.com...  no SSL.
 Testing xunlei.com...  no SSL.
-Testing subito.it...  no SSL.
+Testing subito.it...  not vulnerable.
 Testing graphicriver.net...  no SSL.
 Testing disney.go.com...  not vulnerable.
 Testing theverge.com...  no SSL.
 Testing cbs.com...  no SSL.
-Testing pr-cy.ru...  not vulnerable.
+Testing pr-cy.ru...  no SSL.
 Testing mediaset.it...  no SSL.
 Testing lapatilla.com...  not vulnerable.
 Testing ustream.tv...  not vulnerable.
@@ -996,7 +945,7 @@ Testing ileehoo.com...  no SSL.
 Testing pinimg.com...  no SSL.
 Testing savefrom.net...  not vulnerable.
 Testing brainyquote.com...  no SSL.
-Testing 500px.com...  vulnerable.
+Testing 500px.com...  not vulnerable.
 Testing delta.com...  not vulnerable.
 Testing icloud.com...  no SSL.
 Testing tribunnews.com...  no SSL.
@@ -1050,6 +999,6 @@ Testing merdeka.com...  no SSL.
 Testing linkwithin.com...  no SSL.
 Testing homeway.com.cn...  no SSL.
 
-No SSL: 512
-Vulnerable: 48
-Not vulnerable: 440
+No SSL: 507
+Vulnerable: 19
+Not vulnerable: 474
